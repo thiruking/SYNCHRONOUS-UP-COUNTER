@@ -32,7 +32,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 
-
+```
 module exp11(out,clk,rstn);
 input clk,rstn;
 output reg [3:0]out;
@@ -47,6 +47,7 @@ endmodule
 
 Developed by : THIRUMALAI K
 RegisterNumber : 24900491
+```
 
 **RTL LOGIC UP COUNTER**
 ![Screenshot 2024-12-04 084404](https://github.com/user-attachments/assets/def6b99e-094b-480e-a0a7-790ed62a9180)
